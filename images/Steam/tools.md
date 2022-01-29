@@ -1,10 +1,8 @@
 #### Tools
 
-[GIMP](https://www.gimp.org/)
+- [GIMP](https://www.gimp.org/)
 
 Image editor on layers.
-
--
 
 [Blender](https://www.blender.org/)
 
