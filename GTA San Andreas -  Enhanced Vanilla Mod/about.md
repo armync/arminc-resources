@@ -53,10 +53,7 @@ II. (More advanced, generally for the scripts - better to find the problems) (PS
 [5] Contact and site?
 
 Steam Profile: ArminC
-Steam Group: http://steamcommunity.com/groups/arminc
 E-Mail: arminandrey@gmail.com 
-Site: https://www.ArminC.tk
-
 [6] Added Things:
 Syntax: [Plugin Name] - [Date/Version] - [Requirement]
 
