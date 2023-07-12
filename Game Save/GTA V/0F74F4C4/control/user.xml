@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rage__ControlInput__ControlSettings>
+  <Mappings>
+    <Item>
+      <Input>INPUT_VEH_SELECT_NEXT_WEAPON</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_NULL</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_VEH_SELECT_NEXT_WEAPON</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_TAB</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_VEH_PREV_RADIO</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_COMMA</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_VEH_PREV_RADIO</Input>
+      <Source>IOMS_MOUSE_WHEEL</Source>
+      <Parameters>
+        <Item>IOM_WHEEL_UP</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_VEH_SLOWMO_UP_ONLY</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_NULL</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_VEH_SLOWMO_UP_ONLY</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_PAGEUP</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_VEH_FLY_PITCH_DOWN_ONLY</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_NUMPAD2</Item>
+      </Parameters>
+    </Item>
+  </Mappings>
+</rage__ControlInput__ControlSettings>
